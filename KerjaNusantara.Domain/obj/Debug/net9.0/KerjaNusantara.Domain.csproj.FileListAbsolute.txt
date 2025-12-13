@@ -1,0 +1,11 @@
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/bin/Debug/net9.0/KerjaNusantara.Domain.deps.json
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/bin/Debug/net9.0/KerjaNusantara.Domain.dll
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/bin/Debug/net9.0/KerjaNusantara.Domain.pdb
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.AssemblyInfoInputs.cache
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.AssemblyInfo.cs
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.csproj.CoreCompileInputs.cache
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.dll
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/refint/KerjaNusantara.Domain.dll
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.pdb
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/ref/KerjaNusantara.Domain.dll

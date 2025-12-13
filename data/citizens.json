@@ -1,0 +1,54 @@
+[
+  {
+    "NIK": "3201234567890123",
+    "SkillProfile": {
+      "CitizenId": "",
+      "Skills": [
+        {
+          "SkillName": "C#",
+          "Level": 1,
+          "YearsOfExperience": 2
+        },
+        {
+          "SkillName": "SQL",
+          "Level": 0,
+          "YearsOfExperience": 1
+        }
+      ]
+    },
+    "Applications": [],
+    "Balance": 0,
+    "YearsOfExperience": 3,
+    "Location": "Jakarta",
+    "Id": "7dfc43c4-f8ae-4450-aa13-87d992d03307",
+    "Name": "Budi Santoso",
+    "Email": "budi@email.com",
+    "CreatedAt": "2025-12-13T19:22:25.066554+07:00"
+  },
+  {
+    "NIK": "3201567891123456",
+    "SkillProfile": {
+      "CitizenId": "",
+      "Skills": [
+        {
+          "SkillName": "Team work",
+          "Level": 3,
+          "YearsOfExperience": 5
+        },
+        {
+          "SkillName": "Leadership",
+          "Level": 3,
+          "YearsOfExperience": 5
+        }
+      ]
+    },
+    "Applications": [],
+    "Balance": 0,
+    "YearsOfExperience": 0,
+    "Location": "Bogor",
+    "Id": "1b3f7383-7118-4b31-b2f6-794a1a9a96ff",
+    "Name": "citra",
+    "Email": "citra@gmail.com",
+    "CreatedAt": "2025-12-13T20:07:29.797857+07:00"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "CompanyRegistrationNumber": "REG-2024-001",
+    "CompanyName": "PT Tech Innovators Indonesia",
+    "Industry": "Technology",
+    "PostedJobs": [],
+    "TenderBids": [],
+    "Id": "bc355ec7-d105-418a-9ee4-8224ec65fb31",
+    "Name": "Tech Innovators",
+    "Email": "hr@techinnovators.com",
+    "CreatedAt": "2025-12-13T19:22:25.099899+07:00"
+  },
+  {
+    "CompanyRegistrationNumber": "01",
+    "CompanyName": "Wijaya Karya",
+    "Industry": "Construction",
+    "PostedJobs": [],
+    "TenderBids": [],
+    "Id": "b9503943-9163-4b7a-80ca-81acad055d41",
+    "Name": "Wika",
+    "Email": "wika@gmail.com",
+    "CreatedAt": "2025-12-13T19:50:30.953471+07:00"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nq6Jr9LiDpc=",
+  "success": true,
+  "projectFilePath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/KerjaNusantara.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/altafparvesh/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.1/microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
+    "/Users/altafparvesh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.1/microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

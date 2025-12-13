@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "KerjaNusantara.Repository/1.0.0": {
+        "dependencies": {
+          "KerjaNusantara.Domain": "1.0.0"
+        },
+        "runtime": {
+          "KerjaNusantara.Repository.dll": {}
+        }
+      },
+      "KerjaNusantara.Domain/1.0.0": {
+        "runtime": {
+          "KerjaNusantara.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KerjaNusantara.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KerjaNusantara.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

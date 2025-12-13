@@ -1,0 +1,60 @@
+[
+  {
+    "Id": "880bafbb-ef83-437f-a28d-744e54727136",
+    "Title": "Backend Developer",
+    "Description": "We are looking for a skilled backend developer with C# experience",
+    "CompanyId": "bc355ec7-d105-418a-9ee4-8224ec65fb31",
+    "CompanyName": "PT Tech Innovators Indonesia",
+    "Salary": 15000000,
+    "Location": "Jakarta",
+    "Status": 0,
+    "Requirements": [
+      {
+        "SkillName": "C#",
+        "MinimumLevel": 1,
+        "IsRequired": true
+      },
+      {
+        "SkillName": "SQL",
+        "MinimumLevel": 0,
+        "IsRequired": true
+      }
+    ],
+    "MinExperience": 2,
+    "PostedDate": "2025-12-13T19:22:25.102159+07:00"
+  },
+  {
+    "Id": "5f08f96d-4125-451f-ba33-a96f522d068b",
+    "Title": "Mandor",
+    "Description": "Mandorin 100 orang dalam 1 tim untuk pengerjaan underpass",
+    "CompanyId": "b9503943-9163-4b7a-80ca-81acad055d41",
+    "CompanyName": "Wijaya Karya",
+    "Salary": 20000000,
+    "Location": "Bogor",
+    "Status": 0,
+    "Requirements": [
+      {
+        "SkillName": "Leadership",
+        "MinimumLevel": 3,
+        "IsRequired": true
+      },
+      {
+        "SkillName": "Team work",
+        "MinimumLevel": 3,
+        "IsRequired": true
+      },
+      {
+        "SkillName": "problem solving",
+        "MinimumLevel": 2,
+        "IsRequired": true
+      },
+      {
+        "SkillName": "Time management",
+        "MinimumLevel": 2,
+        "IsRequired": true
+      }
+    ],
+    "MinExperience": 5,
+    "PostedDate": "2025-12-13T20:05:54.135877+07:00"
+  }
+]

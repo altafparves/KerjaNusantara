@@ -1,0 +1,20 @@
+[
+  {
+    "AgencyName": "Walikota Bogor",
+    "Department": "Procurement",
+    "Projects": [],
+    "Id": "34dea22d-8fc9-47b7-b8eb-64cda0c180b5",
+    "Name": "Altaf",
+    "Email": "altafparvesh@gmail.com",
+    "CreatedAt": "2025-12-13T19:40:21.666318+07:00"
+  },
+  {
+    "AgencyName": "BUMN",
+    "Department": "Electrical",
+    "Projects": [],
+    "Id": "c0637fec-e5a1-4cbc-9f0f-1740a4235fd0",
+    "Name": "Akhnaf",
+    "Email": "akhnaf@gmail.com",
+    "CreatedAt": "2025-12-13T19:59:27.101116+07:00"
+  }
+]

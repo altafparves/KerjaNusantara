@@ -1,0 +1,15 @@
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/bin/Debug/net9.0/KerjaNusantara.Repository.deps.json
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/bin/Debug/net9.0/KerjaNusantara.Repository.dll
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/bin/Debug/net9.0/KerjaNusantara.Repository.pdb
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/bin/Debug/net9.0/KerjaNusantara.Domain.dll
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/bin/Debug/net9.0/KerjaNusantara.Domain.pdb
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/KerjaNusantara.Repository.csproj.AssemblyReference.cache
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/KerjaNusantara.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/KerjaNusantara.Repository.AssemblyInfoInputs.cache
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/KerjaNusantara.Repository.AssemblyInfo.cs
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/KerjaNusantara.Repository.csproj.CoreCompileInputs.cache
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/KerjaNus.F2EBFAC1.Up2Date
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/KerjaNusantara.Repository.dll
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/refint/KerjaNusantara.Repository.dll
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/KerjaNusantara.Repository.pdb
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/ref/KerjaNusantara.Repository.dll
