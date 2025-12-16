@@ -11,8 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerjaNusantara.Services", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerjaNusantara.ConsoleApp", "KerjaNusantara.ConsoleApp\KerjaNusantara.ConsoleApp.csproj", "{BD47D791-EE4F-462B-93D6-97D854BF160E}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerjaNusantara.API", "KerjaNusantara.API\KerjaNusantara.API.csproj", "{15E25BF4-2661-4291-8CC9-C203763C5F45}"
 EndProject
+=======
+>>>>>>> a96c17bda4bfe36edb53837c1123be91ad519b34
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +74,7 @@ Global
 		{BD47D791-EE4F-462B-93D6-97D854BF160E}.Release|x64.Build.0 = Release|Any CPU
 		{BD47D791-EE4F-462B-93D6-97D854BF160E}.Release|x86.ActiveCfg = Release|Any CPU
 		{BD47D791-EE4F-462B-93D6-97D854BF160E}.Release|x86.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{15E25BF4-2661-4291-8CC9-C203763C5F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{15E25BF4-2661-4291-8CC9-C203763C5F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15E25BF4-2661-4291-8CC9-C203763C5F45}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -83,6 +87,8 @@ Global
 		{15E25BF4-2661-4291-8CC9-C203763C5F45}.Release|x64.Build.0 = Release|Any CPU
 		{15E25BF4-2661-4291-8CC9-C203763C5F45}.Release|x86.ActiveCfg = Release|Any CPU
 		{15E25BF4-2661-4291-8CC9-C203763C5F45}.Release|x86.Build.0 = Release|Any CPU
+=======
+>>>>>>> a96c17bda4bfe36edb53837c1123be91ad519b34
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
