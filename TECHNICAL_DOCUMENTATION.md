@@ -1054,7 +1054,7 @@ Skill Score = (2 matched / 3 total) × 100 = 66.67%
 **Formula**:
 ```
 If citizen experience ≥ required: 100%
-If citizen experience < required: (citizen experience / required) × 100
+If citizen experience < required: (citizen experience / req uired) × 100
 ```
 
 **Code**:
