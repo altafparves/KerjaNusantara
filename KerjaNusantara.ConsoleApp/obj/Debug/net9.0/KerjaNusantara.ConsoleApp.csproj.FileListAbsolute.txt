@@ -22,3 +22,28 @@
 /Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.pdb
 /Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.genruntimeconfig.cache
 /Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/ref/KerjaNusantara.ConsoleApp.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/KerjaNusantara.ConsoleApp
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/KerjaNusantara.ConsoleApp.deps.json
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/KerjaNusantara.ConsoleApp.runtimeconfig.json
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/KerjaNusantara.ConsoleApp.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/KerjaNusantara.ConsoleApp.pdb
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/KerjaNusantara.Domain.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/KerjaNusantara.Repository.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/KerjaNusantara.Services.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/KerjaNusantara.Services.pdb
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/KerjaNusantara.Domain.pdb
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/bin/Debug/net9.0/KerjaNusantara.Repository.pdb
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.csproj.AssemblyReference.cache
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.AssemblyInfoInputs.cache
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.AssemblyInfo.cs
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.sourcelink.json
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNus.CCB3E4B9.Up2Date
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/refint/KerjaNusantara.ConsoleApp.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.pdb
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.genruntimeconfig.cache
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/ref/KerjaNusantara.ConsoleApp.dll
