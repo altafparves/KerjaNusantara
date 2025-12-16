@@ -47,3 +47,4 @@
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.pdb
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.genruntimeconfig.cache
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/ref/KerjaNusantara.ConsoleApp.dll
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.sourcelink.json

@@ -21,3 +21,4 @@
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/refint/KerjaNusantara.Domain.dll
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.pdb
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/ref/KerjaNusantara.Domain.dll
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.sourcelink.json

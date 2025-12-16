@@ -162,33 +162,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/radityaar05/.nuget/packages/": {}
+    "/Users/altafparvesh/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/KerjaNusantara.ConsoleApp.csproj",
+      "projectUniqueName": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/KerjaNusantara.ConsoleApp.csproj",
       "projectName": "KerjaNusantara.ConsoleApp",
-      "projectPath": "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/KerjaNusantara.ConsoleApp.csproj",
-      "packagesPath": "/Users/radityaar05/.nuget/packages/",
-      "outputPath": "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/",
+      "projectPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/KerjaNusantara.ConsoleApp.csproj",
+      "packagesPath": "/Users/altafparvesh/.nuget/packages/",
+      "outputPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/radityaar05/.nuget/NuGet/NuGet.Config"
+        "/Users/altafparvesh/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/KerjaNusantara.Services.csproj": {
-              "projectPath": "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/KerjaNusantara.Services.csproj"
+            "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Services/KerjaNusantara.Services.csproj": {
+              "projectPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Services/KerjaNusantara.Services.csproj"
             }
           }
         }
