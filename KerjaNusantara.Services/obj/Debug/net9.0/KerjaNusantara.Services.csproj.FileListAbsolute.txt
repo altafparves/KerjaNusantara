@@ -15,3 +15,21 @@
 /Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/refint/KerjaNusantara.Services.dll
 /Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.pdb
 /Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/ref/KerjaNusantara.Services.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/bin/Debug/net9.0/KerjaNusantara.Services.deps.json
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/bin/Debug/net9.0/KerjaNusantara.Services.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/bin/Debug/net9.0/KerjaNusantara.Services.pdb
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/bin/Debug/net9.0/KerjaNusantara.Domain.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/bin/Debug/net9.0/KerjaNusantara.Repository.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/bin/Debug/net9.0/KerjaNusantara.Domain.pdb
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/bin/Debug/net9.0/KerjaNusantara.Repository.pdb
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.csproj.AssemblyReference.cache
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.AssemblyInfoInputs.cache
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.AssemblyInfo.cs
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.csproj.CoreCompileInputs.cache
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.sourcelink.json
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNus.EB39D907.Up2Date
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/refint/KerjaNusantara.Services.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.pdb
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/ref/KerjaNusantara.Services.dll

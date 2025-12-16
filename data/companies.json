@@ -20,5 +20,27 @@
     "Name": "Wika",
     "Email": "wika@gmail.com",
     "CreatedAt": "2025-12-13T19:50:30.953471+07:00"
+  },
+  {
+    "CompanyRegistrationNumber": "3",
+    "CompanyName": "rdon",
+    "Industry": "3",
+    "PostedJobs": [],
+    "TenderBids": [],
+    "Id": "688b1ee7-3cca-4df0-946e-ff11e4e583cb",
+    "Name": "rdt",
+    "Email": "b",
+    "CreatedAt": "2025-12-16T18:43:11.39066+07:00"
+  },
+  {
+    "CompanyRegistrationNumber": "1",
+    "CompanyName": "c",
+    "Industry": "f",
+    "PostedJobs": [],
+    "TenderBids": [],
+    "Id": "d23605f1-1129-4993-984b-52d4360dd0ea",
+    "Name": "a",
+    "Email": "b@gmail.com",
+    "CreatedAt": "2025-12-16T18:46:41.338207+07:00"
   }
 ]

@@ -55,18 +55,65 @@ public static class ConsoleHelper
         return Console.ReadLine() ?? string.Empty;
     }
 
+    public static string ReadInput(string prompt, Func<string, bool> validator, string errorMessage)
+    {
+        while (true)
+        {
+            Console.Write($"{prompt}: ");
+            var input = Console.ReadLine() ?? string.Empty;
+
+            if (validator(input))
+            {
+                return input;
+            }
+
+            DisplayError(errorMessage);
+        }
+    }
+
     public static int ReadInt(string prompt, int defaultValue = 0)
     {
-        Console.Write($"{prompt}: ");
-        var input = Console.ReadLine();
-        return int.TryParse(input, out var result) ? result : defaultValue;
+        while (true)
+        {
+            Console.Write($"{prompt}: ");
+            var input = Console.ReadLine();
+
+            // If empty, return default
+            if (string.IsNullOrWhiteSpace(input))
+            {
+                return defaultValue;
+            }
+
+            // If valid integer, return it
+            if (int.TryParse(input, out var result))
+            {
+                return result;
+            }
+
+            // Otherwise, show error and loop
+            DisplayError("Invalid input. Please enter a valid number.");
+        }
     }
 
     public static decimal ReadDecimal(string prompt, decimal defaultValue = 0)
     {
-        Console.Write($"{prompt}: ");
-        var input = Console.ReadLine();
-        return decimal.TryParse(input, out var result) ? result : defaultValue;
+        while (true)
+        {
+            Console.Write($"{prompt}: ");
+            var input = Console.ReadLine();
+
+            if (string.IsNullOrWhiteSpace(input))
+            {
+                return defaultValue;
+            }
+
+            if (decimal.TryParse(input, out var result))
+            {
+                return result;
+            }
+
+            DisplayError("Invalid input. Please enter a valid number.");
+        }
     }
 
     public static void PressAnyKeyToContinue()

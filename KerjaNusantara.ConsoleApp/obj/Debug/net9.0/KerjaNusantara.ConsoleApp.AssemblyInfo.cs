@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KerjaNusantara.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfcaadb030a0ceb45c646f890a2c9824b16cbd6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("KerjaNusantara.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KerjaNusantara.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

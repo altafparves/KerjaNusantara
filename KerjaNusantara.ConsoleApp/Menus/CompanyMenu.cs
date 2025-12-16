@@ -118,11 +118,25 @@ public class CompanyMenu
 
         try
         {
-            var name = ConsoleHelper.ReadInput("Contact Person Name");
-            var email = ConsoleHelper.ReadInput("Email");
-            var companyName = ConsoleHelper.ReadInput("Company Name");
-            var regNumber = ConsoleHelper.ReadInput("Registration Number");
-            var industry = ConsoleHelper.ReadInput("Industry");
+            var name = ConsoleHelper.ReadInput("Contact Person Name",
+                input => !string.IsNullOrWhiteSpace(input) && input.All(c => char.IsLetter(c) || char.IsWhiteSpace(c)),
+                "Name must contain only letters and cannot be empty.");
+
+            var email = ConsoleHelper.ReadInput("Email",
+                input => !string.IsNullOrWhiteSpace(input) && input.Contains("@"),
+                "Please enter a valid email address.");
+
+            var companyName = ConsoleHelper.ReadInput("Company Name",
+                input => !string.IsNullOrWhiteSpace(input),
+                "Company Name cannot be empty.");
+
+            var regNumber = ConsoleHelper.ReadInput("Registration Number",
+                input => !string.IsNullOrWhiteSpace(input),
+                "Registration Number cannot be empty.");
+
+            var industry = ConsoleHelper.ReadInput("Industry",
+                input => !string.IsNullOrWhiteSpace(input) && input.All(c => char.IsLetter(c) || char.IsWhiteSpace(c)),
+                "Industry must contain only letters.");
 
             var company = _userService.RegisterCompany(name, email, companyName, regNumber, industry);
             _currentCompanyId = company.Id;
@@ -141,7 +155,10 @@ public class CompanyMenu
     {
         ConsoleHelper.DisplaySection("Login");
 
-        var email = ConsoleHelper.ReadInput("Enter your email");
+        var email = ConsoleHelper.ReadInput("Enter your email",
+            input => !string.IsNullOrWhiteSpace(input) && input.Contains("@"),
+            "Please enter a valid email address.");
+
         var company = _userService.GetAllCompanies().FirstOrDefault(c => c.Email.Equals(email, StringComparison.OrdinalIgnoreCase));
 
         if (company != null)
@@ -163,10 +180,20 @@ public class CompanyMenu
 
         try
         {
-            var title = ConsoleHelper.ReadInput("Job Title");
-            var description = ConsoleHelper.ReadInput("Description");
+            var title = ConsoleHelper.ReadInput("Job Title",
+                input => !string.IsNullOrWhiteSpace(input),
+                "Job Title cannot be empty.");
+
+            var description = ConsoleHelper.ReadInput("Description",
+                input => !string.IsNullOrWhiteSpace(input) && input.Length > 10,
+                "Description must be at least 10 characters long.");
+
             var salary = ConsoleHelper.ReadDecimal("Salary (Rp)");
-            var location = ConsoleHelper.ReadInput("Location");
+
+            var location = ConsoleHelper.ReadInput("Location",
+                input => !string.IsNullOrWhiteSpace(input),
+                "Location cannot be empty.");
+
             var minExp = ConsoleHelper.ReadInt("Minimum Years of Experience", 0);
 
             var requirements = new List<SkillRequirement>();
@@ -287,7 +314,9 @@ public class CompanyMenu
             }
 
             var bidAmount = ConsoleHelper.ReadDecimal("Bid Amount (Rp)");
-            var proposal = ConsoleHelper.ReadInput("Proposal Summary");
+            var proposal = ConsoleHelper.ReadInput("Proposal Summary",
+                input => !string.IsNullOrWhiteSpace(input) && input.Length >= 20,
+                "Proposal summary must be at least 20 characters.");
             var estimatedDays = ConsoleHelper.ReadInt("Estimated Days to Complete");
 
             var bid = _tenderService.SubmitBid(_currentCompanyId!, projectId, bidAmount, proposal, estimatedDays);

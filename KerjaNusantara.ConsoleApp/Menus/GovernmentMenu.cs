@@ -116,10 +116,21 @@ public class GovernmentMenu
 
         try
         {
-            var name = ConsoleHelper.ReadInput("Contact Person Name");
-            var email = ConsoleHelper.ReadInput("Email");
-            var agencyName = ConsoleHelper.ReadInput("Agency Name");
-            var department = ConsoleHelper.ReadInput("Department");
+            var name = ConsoleHelper.ReadInput("Contact Person Name",
+                input => !string.IsNullOrWhiteSpace(input) && input.All(c => char.IsLetter(c) || char.IsWhiteSpace(c)),
+                "Name must contain only letters and cannot be empty.");
+            
+            var email = ConsoleHelper.ReadInput("Email",
+                input => !string.IsNullOrWhiteSpace(input) && input.Contains("@"),
+                "Please enter a valid email address.");
+
+            var agencyName = ConsoleHelper.ReadInput("Agency Name",
+                input => !string.IsNullOrWhiteSpace(input),
+                "Agency Name cannot be empty.");
+
+            var department = ConsoleHelper.ReadInput("Department",
+                 input => !string.IsNullOrWhiteSpace(input),
+                "Department cannot be empty.");
 
             var government = _userService.RegisterGovernment(name, email, agencyName, department);
             _currentGovernmentId = government.Id;
@@ -138,7 +149,10 @@ public class GovernmentMenu
     {
         ConsoleHelper.DisplaySection("Login");
 
-        var email = ConsoleHelper.ReadInput("Enter your email");
+        var email = ConsoleHelper.ReadInput("Enter your email",
+            input => !string.IsNullOrWhiteSpace(input) && input.Contains("@"),
+            "Please enter a valid email address.");
+            
         var government = _userService.GetAllGovernments().FirstOrDefault(g => g.Email.Equals(email, StringComparison.OrdinalIgnoreCase));
 
         if (government != null)
@@ -160,16 +174,24 @@ public class GovernmentMenu
 
         try
         {
-            var title = ConsoleHelper.ReadInput("Project Title");
-            var description = ConsoleHelper.ReadInput("Description");
+            var title = ConsoleHelper.ReadInput("Project Title",
+                input => !string.IsNullOrWhiteSpace(input),
+                "Project Title cannot be empty.");
+                
+            var description = ConsoleHelper.ReadInput("Description",
+                input => !string.IsNullOrWhiteSpace(input) && input.Length > 20,
+                "Description must be at least 20 characters.");
+                
             var budget = ConsoleHelper.ReadDecimal("Budget (Rp)");
             
-            Console.Write("Tender Closing Date (yyyy-MM-dd, or leave empty): ");
-            var closingDateStr = Console.ReadLine();
             DateTime? closingDate = null;
-            if (!string.IsNullOrWhiteSpace(closingDateStr) && DateTime.TryParse(closingDateStr, out var date))
+            var dateStr = ConsoleHelper.ReadInput("Tender Closing Date (yyyy-MM-dd, or Enter to skip)", 
+                input => string.IsNullOrWhiteSpace(input) || DateTime.TryParse(input, out _),
+                "Invalid date format. Please use yyyy-MM-dd.");
+            
+            if (!string.IsNullOrWhiteSpace(dateStr))
             {
-                closingDate = date;
+                closingDate = DateTime.Parse(dateStr);
             }
 
             var project = _tenderService.CreateProject(_currentGovernmentId!, title, description, budget, closingDate);

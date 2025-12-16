@@ -46,35 +46,36 @@
     ]
   },
   "packageFolders": {
-    "/Users/altafparvesh/.nuget/packages/": {}
+    "/Users/radityaar05/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Services/KerjaNusantara.Services.csproj",
+      "projectUniqueName": "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/KerjaNusantara.Services.csproj",
       "projectName": "KerjaNusantara.Services",
-      "projectPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Services/KerjaNusantara.Services.csproj",
-      "packagesPath": "/Users/altafparvesh/.nuget/packages/",
-      "outputPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Services/obj/",
+      "projectPath": "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/KerjaNusantara.Services.csproj",
+      "packagesPath": "/Users/radityaar05/.nuget/packages/",
+      "outputPath": "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/altafparvesh/.nuget/NuGet/NuGet.Config"
+        "/Users/radityaar05/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/KerjaNusantara.Domain.csproj": {
-              "projectPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/KerjaNusantara.Domain.csproj"
+            "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/KerjaNusantara.Domain.csproj": {
+              "projectPath": "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/KerjaNusantara.Domain.csproj"
             },
-            "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/KerjaNusantara.Repository.csproj": {
-              "projectPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/KerjaNusantara.Repository.csproj"
+            "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Repository/KerjaNusantara.Repository.csproj": {
+              "projectPath": "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Repository/KerjaNusantara.Repository.csproj"
             }
           }
         }

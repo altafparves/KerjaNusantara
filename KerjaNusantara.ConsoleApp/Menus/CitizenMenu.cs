@@ -120,9 +120,18 @@ public class CitizenMenu
 
         try
         {
-            var name = ConsoleHelper.ReadInput("Full Name");
-            var email = ConsoleHelper.ReadInput("Email");
-            var nik = ConsoleHelper.ReadInput("NIK (16 digits)");
+            var name = ConsoleHelper.ReadInput("Full Name", 
+                input => !string.IsNullOrWhiteSpace(input) && input.All(c => char.IsLetter(c) || char.IsWhiteSpace(c)),
+                "Name must contain only letters and cannot be empty.");
+                
+            var email = ConsoleHelper.ReadInput("Email", 
+                input => !string.IsNullOrWhiteSpace(input) && input.Contains("@"), 
+                "Please enter a valid email address.");
+
+            var nik = ConsoleHelper.ReadInput("NIK (16 digits)", 
+                input => input.Length == 16 && input.All(char.IsDigit), 
+                "NIK must be exactly 16 digits.");
+
             var location = ConsoleHelper.ReadInput("Location");
 
             var citizen = _userService.RegisterCitizen(name, email, nik, location);

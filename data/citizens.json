@@ -50,5 +50,71 @@
     "Name": "citra",
     "Email": "citra@gmail.com",
     "CreatedAt": "2025-12-13T20:07:29.797857+07:00"
+  },
+  {
+    "NIK": "1",
+    "SkillProfile": {
+      "CitizenId": "",
+      "Skills": []
+    },
+    "Applications": [],
+    "Balance": 0,
+    "YearsOfExperience": 0,
+    "Location": "gr",
+    "Id": "19dfdc62-2d1e-4e3c-abcb-fa5606a82023",
+    "Name": "ae",
+    "Email": "ed",
+    "CreatedAt": "2025-12-16T17:36:28.47718+07:00"
+  },
+  {
+    "NIK": "1234",
+    "SkillProfile": {
+      "CitizenId": "",
+      "Skills": []
+    },
+    "Applications": [],
+    "Balance": 0,
+    "YearsOfExperience": 0,
+    "Location": "",
+    "Id": "1b9bef99-b0e4-428a-ad23-92b191269e98",
+    "Name": "a",
+    "Email": "b",
+    "CreatedAt": "2025-12-16T17:37:38.867985+07:00"
+  },
+  {
+    "NIK": "a",
+    "SkillProfile": {
+      "CitizenId": "",
+      "Skills": []
+    },
+    "Applications": [],
+    "Balance": 0,
+    "YearsOfExperience": 0,
+    "Location": "q",
+    "Id": "e9e347ab-c28b-4089-8e11-17ee4de74c08",
+    "Name": "ary",
+    "Email": "a",
+    "CreatedAt": "2025-12-16T18:33:36.736113+07:00"
+  },
+  {
+    "NIK": "1234567890123456",
+    "SkillProfile": {
+      "CitizenId": "",
+      "Skills": [
+        {
+          "SkillName": "photography",
+          "Level": 3,
+          "YearsOfExperience": 5
+        }
+      ]
+    },
+    "Applications": [],
+    "Balance": 0,
+    "YearsOfExperience": 0,
+    "Location": "jg",
+    "Id": "e12dd3fa-a8ac-4626-a969-ab9abaf6c4f6",
+    "Name": "a",
+    "Email": "a@gmail.com",
+    "CreatedAt": "2025-12-16T18:40:45.557882+07:00"
   }
 ]

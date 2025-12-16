@@ -9,3 +9,15 @@
 /Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/refint/KerjaNusantara.Domain.dll
 /Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.pdb
 /Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/ref/KerjaNusantara.Domain.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/bin/Debug/net9.0/KerjaNusantara.Domain.deps.json
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/bin/Debug/net9.0/KerjaNusantara.Domain.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/bin/Debug/net9.0/KerjaNusantara.Domain.pdb
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.AssemblyInfoInputs.cache
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.AssemblyInfo.cs
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.csproj.CoreCompileInputs.cache
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.sourcelink.json
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/refint/KerjaNusantara.Domain.dll
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.pdb
+/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/ref/KerjaNusantara.Domain.dll
