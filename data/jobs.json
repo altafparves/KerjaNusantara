@@ -56,5 +56,34 @@
     ],
     "MinExperience": 5,
     "PostedDate": "2025-12-13T20:05:54.135877+07:00"
+  },
+  {
+    "Id": "62b1a0be-46ed-4e45-821d-030fbcfcf048",
+    "Title": "Front End Developer",
+    "Description": "Building the interface of company requirements",
+    "CompanyId": "20e883d3-0520-47d7-a01c-2654b026b963",
+    "CompanyName": "PT Syamsu Rizal Sejahtera",
+    "Salary": 10000000,
+    "Location": "Sleman",
+    "Status": 0,
+    "Requirements": [
+      {
+        "SkillName": "Python",
+        "MinimumLevel": 1,
+        "IsRequired": true
+      },
+      {
+        "SkillName": "Java",
+        "MinimumLevel": 1,
+        "IsRequired": true
+      },
+      {
+        "SkillName": "HTML",
+        "MinimumLevel": 1,
+        "IsRequired": true
+      }
+    ],
+    "MinExperience": 2,
+    "PostedDate": "2025-12-17T03:43:15.6373876+07:00"
   }
 ]

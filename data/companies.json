@@ -42,5 +42,16 @@
     "Name": "a",
     "Email": "b@gmail.com",
     "CreatedAt": "2025-12-16T18:46:41.338207+07:00"
+  },
+  {
+    "CompanyRegistrationNumber": "6940467",
+    "CompanyName": "PT Syamsu Rizal Sejahtera",
+    "Industry": "Technology",
+    "PostedJobs": [],
+    "TenderBids": [],
+    "Id": "20e883d3-0520-47d7-a01c-2654b026b963",
+    "Name": "Altaf Parves",
+    "Email": "altafparves@gmail.com",
+    "CreatedAt": "2025-12-17T03:34:47.7774198+07:00"
   }
 ]

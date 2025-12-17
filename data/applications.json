@@ -8,5 +8,25 @@
     "AppliedDate": "2025-12-13T20:09:02.864881+07:00",
     "MatchScore": 35,
     "CoverLetter": ""
+  },
+  {
+    "Id": "b627cbb8-4b18-4a6c-97e9-be3e92aff32b",
+    "JobId": "5f08f96d-4125-451f-ba33-a96f522d068b",
+    "CitizenId": "86cd6313-71a7-4007-a75b-dd0a29487fc3",
+    "CitizenName": "Akhnaf Fawzan Y",
+    "Status": 0,
+    "AppliedDate": "2025-12-17T03:17:07.2550843+07:00",
+    "MatchScore": 17,
+    "CoverLetter": "Dear Wijaya Karya, xxxxxxxxx, Thank you for your consideration."
+  },
+  {
+    "Id": "ac4f5858-ed7c-4785-8767-4fa741c34387",
+    "JobId": "62b1a0be-46ed-4e45-821d-030fbcfcf048",
+    "CitizenId": "86cd6313-71a7-4007-a75b-dd0a29487fc3",
+    "CitizenName": "Akhnaf Fawzan Y",
+    "Status": 0,
+    "AppliedDate": "2025-12-17T03:54:03.9302842+07:00",
+    "MatchScore": 0,
+    "CoverLetter": "XXXXXXXX"
   }
 ]

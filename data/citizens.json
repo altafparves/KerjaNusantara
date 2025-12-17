@@ -116,5 +116,52 @@
     "Name": "a",
     "Email": "a@gmail.com",
     "CreatedAt": "2025-12-16T18:40:45.557882+07:00"
+  },
+  {
+    "NIK": "3374121212101112",
+    "SkillProfile": {
+      "CitizenId": "",
+      "Skills": [
+        {
+          "SkillName": "Java",
+          "Level": 2,
+          "YearsOfExperience": 5
+        },
+        {
+          "SkillName": "Python",
+          "Level": 3,
+          "YearsOfExperience": 5
+        }
+      ]
+    },
+    "Applications": [],
+    "Balance": 0,
+    "YearsOfExperience": 0,
+    "Location": "Sleman",
+    "Id": "66c22c00-d17c-4db9-bcfc-da3f08858de6",
+    "Name": "Akhnaf Fawzan",
+    "Email": "akhnaffawzan@gmail.com",
+    "CreatedAt": "2025-12-17T02:53:55.4758304+07:00"
+  },
+  {
+    "NIK": "3374121212120001",
+    "SkillProfile": {
+      "CitizenId": "",
+      "Skills": [
+        {
+          "SkillName": "leadership",
+          "Level": 3,
+          "YearsOfExperience": 5
+        }
+      ]
+    },
+    "Applications": [],
+    "Balance": 0,
+    "YearsOfExperience": 0,
+    "Location": "Jakarta",
+    "Id": "86cd6313-71a7-4007-a75b-dd0a29487fc3",
+    "Name": "Akhnaf Fawzan Y",
+    "Email": "akhnafyooga@gmail,com",
+    "CreatedAt": "2025-12-17T03:10:57.7568544+07:00"
   }
 ]

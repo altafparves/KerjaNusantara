@@ -9,5 +9,27 @@
     "EstimatedDays": 60,
     "SubmittedDate": "2025-12-13T19:51:32.659417+07:00",
     "IsWinner": true
+  },
+  {
+    "Id": "059206f7-4305-4979-8122-fe41f287219f",
+    "ProjectId": "be4e032d-ac6e-473d-b744-3c315b556131",
+    "CompanyId": "20e883d3-0520-47d7-a01c-2654b026b963",
+    "CompanyName": "PT Syamsu Rizal Sejahtera",
+    "BidAmount": 10000000000,
+    "Proposal": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "EstimatedDays": 600,
+    "SubmittedDate": "2025-12-17T04:05:39.0790753+07:00",
+    "IsWinner": false
+  },
+  {
+    "Id": "6ad19a7b-9392-4438-b16f-8ff9824f287c",
+    "ProjectId": "6036cae4-354d-405a-88a9-a001c52ebe49",
+    "CompanyId": "20e883d3-0520-47d7-a01c-2654b026b963",
+    "CompanyName": "PT Syamsu Rizal Sejahtera",
+    "BidAmount": 150000000,
+    "Proposal": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "EstimatedDays": 30,
+    "SubmittedDate": "2025-12-17T04:26:58.4408499+07:00",
+    "IsWinner": true
   }
 ]
