@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KerjaNusantara.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db694818501352a2b01b2042a3550b4d4c842038")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22c303864481f2914cb787b4888bd2bd7ad8ea6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("KerjaNusantara.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KerjaNusantara.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

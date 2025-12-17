@@ -29,3 +29,19 @@
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/refint/KerjaNusantara.Repository.dll
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/KerjaNusantara.Repository.pdb
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/ref/KerjaNusantara.Repository.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\bin\Debug\net9.0\KerjaNusantara.Repository.deps.json
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\bin\Debug\net9.0\KerjaNusantara.Repository.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\bin\Debug\net9.0\KerjaNusantara.Repository.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\bin\Debug\net9.0\KerjaNusantara.Domain.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\bin\Debug\net9.0\KerjaNusantara.Domain.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\KerjaNusantara.Repository.csproj.AssemblyReference.cache
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\KerjaNusantara.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\KerjaNusantara.Repository.AssemblyInfoInputs.cache
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\KerjaNusantara.Repository.AssemblyInfo.cs
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\KerjaNusantara.Repository.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\KerjaNusantara.Repository.sourcelink.json
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\KerjaNus.F2EBFAC1.Up2Date
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\KerjaNusantara.Repository.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\refint\KerjaNusantara.Repository.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\KerjaNusantara.Repository.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\ref\KerjaNusantara.Repository.dll

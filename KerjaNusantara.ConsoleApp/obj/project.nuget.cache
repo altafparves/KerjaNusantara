@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YCo3b3eH0HA=",
+  "dgSpecHash": "H7a7ZaY84WA=",
   "success": true,
-  "projectFilePath": "/Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/KerjaNusantara.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\KerjaNusantara\\KerjaNusantara.ConsoleApp\\KerjaNusantara.ConsoleApp.csproj",
   "expectedPackageFiles": [
-    "/Users/radityaar05/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.1/microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
-    "/Users/radityaar05/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.1/microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.1\\microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
   ],
   "logs": []
 }

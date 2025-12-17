@@ -33,3 +33,21 @@
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/refint/KerjaNusantara.Services.dll
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.pdb
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/ref/KerjaNusantara.Services.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\bin\Debug\net9.0\KerjaNusantara.Services.deps.json
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\bin\Debug\net9.0\KerjaNusantara.Services.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\bin\Debug\net9.0\KerjaNusantara.Services.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\bin\Debug\net9.0\KerjaNusantara.Domain.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\bin\Debug\net9.0\KerjaNusantara.Repository.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\bin\Debug\net9.0\KerjaNusantara.Domain.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\bin\Debug\net9.0\KerjaNusantara.Repository.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\KerjaNusantara.Services.csproj.AssemblyReference.cache
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\KerjaNusantara.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\KerjaNusantara.Services.AssemblyInfoInputs.cache
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\KerjaNusantara.Services.AssemblyInfo.cs
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\KerjaNusantara.Services.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\KerjaNusantara.Services.sourcelink.json
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\KerjaNus.EB39D907.Up2Date
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\KerjaNusantara.Services.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\refint\KerjaNusantara.Services.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\KerjaNusantara.Services.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\ref\KerjaNusantara.Services.dll

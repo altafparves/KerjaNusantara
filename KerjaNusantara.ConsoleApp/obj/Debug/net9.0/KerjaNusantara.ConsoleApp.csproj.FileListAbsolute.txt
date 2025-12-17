@@ -47,3 +47,28 @@
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.pdb
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.genruntimeconfig.cache
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/ref/KerjaNusantara.ConsoleApp.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.ConsoleApp.exe
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.ConsoleApp.deps.json
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.ConsoleApp.runtimeconfig.json
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.ConsoleApp.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.ConsoleApp.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.Domain.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.Repository.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.Services.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.Services.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.Domain.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.Repository.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNusantara.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNusantara.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNusantara.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNusantara.ConsoleApp.AssemblyInfo.cs
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNusantara.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNusantara.ConsoleApp.sourcelink.json
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNus.CCB3E4B9.Up2Date
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNusantara.ConsoleApp.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\refint\KerjaNusantara.ConsoleApp.dll
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNusantara.ConsoleApp.pdb
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNusantara.ConsoleApp.genruntimeconfig.cache
+C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\ref\KerjaNusantara.ConsoleApp.dll
