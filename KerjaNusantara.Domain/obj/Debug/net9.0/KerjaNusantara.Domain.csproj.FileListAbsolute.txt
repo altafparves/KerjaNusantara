@@ -21,6 +21,7 @@
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/refint/KerjaNusantara.Domain.dll
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.pdb
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/ref/KerjaNusantara.Domain.dll
+<<<<<<< HEAD
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Domain\bin\Debug\net9.0\KerjaNusantara.Domain.deps.json
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Domain\bin\Debug\net9.0\KerjaNusantara.Domain.dll
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Domain\bin\Debug\net9.0\KerjaNusantara.Domain.pdb
@@ -33,3 +34,6 @@ C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Domain\obj\Debug\net9.0\KerjaNusan
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Domain\obj\Debug\net9.0\refint\KerjaNusantara.Domain.dll
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Domain\obj\Debug\net9.0\KerjaNusantara.Domain.pdb
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Domain\obj\Debug\net9.0\ref\KerjaNusantara.Domain.dll
+=======
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/Debug/net9.0/KerjaNusantara.Domain.sourcelink.json
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f

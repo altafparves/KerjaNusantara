@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "aok+tWINPJo=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\KerjaNusantara\\KerjaNusantara.Repository\\KerjaNusantara.Repository.csproj",
+=======
+  "dgSpecHash": "aY4y1/XUvuQ=",
+  "success": true,
+  "projectFilePath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/KerjaNusantara.Repository.csproj",
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,11 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "H7a7ZaY84WA=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\KerjaNusantara\\KerjaNusantara.ConsoleApp\\KerjaNusantara.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.1\\microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+=======
+  "dgSpecHash": "Nq6Jr9LiDpc=",
+  "success": true,
+  "projectFilePath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/KerjaNusantara.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/altafparvesh/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.1/microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
+    "/Users/altafparvesh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.1/microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f
   ],
   "logs": []
 }

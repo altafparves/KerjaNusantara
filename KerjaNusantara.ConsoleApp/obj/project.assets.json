@@ -162,11 +162,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+=======
+    "/Users/altafparvesh/.nuget/packages/": {}
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\LENOVO\\KerjaNusantara\\KerjaNusantara.ConsoleApp\\KerjaNusantara.ConsoleApp.csproj",
       "projectName": "KerjaNusantara.ConsoleApp",
       "projectPath": "C:\\Users\\LENOVO\\KerjaNusantara\\KerjaNusantara.ConsoleApp\\KerjaNusantara.ConsoleApp.csproj",
@@ -175,20 +180,38 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/KerjaNusantara.ConsoleApp.csproj",
+      "projectName": "KerjaNusantara.ConsoleApp",
+      "projectPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/KerjaNusantara.ConsoleApp.csproj",
+      "packagesPath": "/Users/altafparvesh/.nuget/packages/",
+      "outputPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/altafparvesh/.nuget/NuGet/NuGet.Config"
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+<<<<<<< HEAD
         "D:\\KerjaNusantara\\src\\KerjaNusantara.Core\\bin\\Release": {},
+=======
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\LENOVO\\KerjaNusantara\\KerjaNusantara.Services\\KerjaNusantara.Services.csproj": {
               "projectPath": "C:\\Users\\LENOVO\\KerjaNusantara\\KerjaNusantara.Services\\KerjaNusantara.Services.csproj"
+=======
+            "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Services/KerjaNusantara.Services.csproj": {
+              "projectPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Services/KerjaNusantara.Services.csproj"
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f
             }
           }
         }

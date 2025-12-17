@@ -47,6 +47,7 @@
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.pdb
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.genruntimeconfig.cache
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/ref/KerjaNusantara.ConsoleApp.dll
+<<<<<<< HEAD
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.ConsoleApp.exe
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.ConsoleApp.deps.json
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\bin\Debug\net9.0\KerjaNusantara.ConsoleApp.runtimeconfig.json
@@ -72,3 +73,6 @@ C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\refint
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNusantara.ConsoleApp.pdb
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\KerjaNusantara.ConsoleApp.genruntimeconfig.cache
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.ConsoleApp\obj\Debug\net9.0\ref\KerjaNusantara.ConsoleApp.dll
+=======
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.ConsoleApp/obj/Debug/net9.0/KerjaNusantara.ConsoleApp.sourcelink.json
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f

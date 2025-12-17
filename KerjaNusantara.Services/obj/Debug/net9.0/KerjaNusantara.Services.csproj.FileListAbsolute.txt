@@ -33,6 +33,7 @@
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/refint/KerjaNusantara.Services.dll
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.pdb
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/ref/KerjaNusantara.Services.dll
+<<<<<<< HEAD
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\bin\Debug\net9.0\KerjaNusantara.Services.deps.json
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\bin\Debug\net9.0\KerjaNusantara.Services.dll
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\bin\Debug\net9.0\KerjaNusantara.Services.pdb
@@ -51,3 +52,6 @@ C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\KerjaNus
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\refint\KerjaNusantara.Services.dll
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\KerjaNusantara.Services.pdb
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Services\obj\Debug\net9.0\ref\KerjaNusantara.Services.dll
+=======
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Services/obj/Debug/net9.0/KerjaNusantara.Services.sourcelink.json
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f

@@ -8,11 +8,16 @@
     "net9.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+=======
+    "/Users/altafparvesh/.nuget/packages/": {}
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\LENOVO\\KerjaNusantara\\KerjaNusantara.Domain\\KerjaNusantara.Domain.csproj",
       "projectName": "KerjaNusantara.Domain",
       "projectPath": "C:\\Users\\LENOVO\\KerjaNusantara\\KerjaNusantara.Domain\\KerjaNusantara.Domain.csproj",
@@ -21,12 +26,25 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/KerjaNusantara.Domain.csproj",
+      "projectName": "KerjaNusantara.Domain",
+      "projectPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/KerjaNusantara.Domain.csproj",
+      "packagesPath": "/Users/altafparvesh/.nuget/packages/",
+      "outputPath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/altafparvesh/.nuget/NuGet/NuGet.Config"
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+<<<<<<< HEAD
         "D:\\KerjaNusantara\\src\\KerjaNusantara.Core\\bin\\Release": {},
+=======
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -29,6 +29,7 @@
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/refint/KerjaNusantara.Repository.dll
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/KerjaNusantara.Repository.pdb
 /Users/radityaar05/Documents/OOP Finpro/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/ref/KerjaNusantara.Repository.dll
+<<<<<<< HEAD
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\bin\Debug\net9.0\KerjaNusantara.Repository.deps.json
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\bin\Debug\net9.0\KerjaNusantara.Repository.dll
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\bin\Debug\net9.0\KerjaNusantara.Repository.pdb
@@ -45,3 +46,6 @@ C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\KerjaN
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\refint\KerjaNusantara.Repository.dll
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\KerjaNusantara.Repository.pdb
 C:\Users\LENOVO\KerjaNusantara\KerjaNusantara.Repository\obj\Debug\net9.0\ref\KerjaNusantara.Repository.dll
+=======
+/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Repository/obj/Debug/net9.0/KerjaNusantara.Repository.sourcelink.json
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f

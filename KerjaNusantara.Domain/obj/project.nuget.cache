@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "NgaQrGySpKg=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\KerjaNusantara\\KerjaNusantara.Domain\\KerjaNusantara.Domain.csproj",
+=======
+  "dgSpecHash": "LOSPvwM46JI=",
+  "success": true,
+  "projectFilePath": "/Users/altafparvesh/Documents/PERSONAL/AntiGravity/KerjaNusantara/KerjaNusantara.Domain/KerjaNusantara.Domain.csproj",
+>>>>>>> 4532e2d28945410cf3316c5b2973aa69ffbb007f
   "expectedPackageFiles": [],
   "logs": []
 }
